@@ -1,0 +1,161 @@
+{
+    "Modules":[
+       {
+          "ModuleName":"CMPG321",
+          "Assignments":[
+             
+          ],
+          "Classes":[
+             
+          ],
+          "Links":[
+             
+          ],
+          "ClassOnceOff":[
+             
+          ],
+          "ClassTimes":[
+             
+          ],
+          "ClassCancelations":[
+             
+          ]
+       },
+       {
+          "ModuleName":"CMPG322",
+          "Assignments":[
+             
+          ],
+          "Classes":[
+             
+          ],
+          "Links":[
+             
+          ],
+          "ClassOnceOff":[
+             
+          ],
+          "ClassTimes":[
+             {
+                "StartsOn":"2022-08-01",
+                "EndsOn":"2022-12-26",
+                "Time":"08:00",
+                "RepeatsWeakly":true,
+                "Delivery":"Contact"
+             }
+          ],
+          "ClassCancelations":[
+             
+          ]
+       },
+       {
+          "ModuleName":"CMPG323",
+          "Assignments":[
+             
+          ],
+          "Classes":[
+             
+          ],
+          "Links":[
+             {
+                "Link":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZjYzNmNmItZTY5YS00N2E0LTg3MzAtYjVlZTNhYzRmOTM1%40thread.v2/0?context=%7b%22Tid%22%3a%22331c86e7-d032-436f-bc53-f2552d031012%22%2c%22Oid%22%3a%2293979cdb-3ac7-45da-8d81-cd987157ac8a%22%7d",
+                "ExpireDate":"2022-07-29",
+                "Description":"Teams Link for Virtual Class"
+             }
+          ],
+          "ClassOnceOff":[
+             
+          ],
+          "ClassTimes":[
+             
+          ],
+          "ClassCancelations":[
+             
+          ]
+       },
+       {
+          "ModuleName":"CMPG324",
+          "Assignments":[
+             {
+                "Description":"Assignment 1 - Install Linux in a virtual machine.",
+                "DueDate":"2022-08-01"
+             },
+             {
+                "Description":"2022 Small Test 1",
+                "DueDate":"2022-08-02"
+             },
+             {
+               "Description":"Test Value",
+               "DueDate":"2022-08-09"
+            }
+          ],
+          "Classes":[
+             
+          ],
+          "Links":[
+             {
+                "Link":"https://teams.microsoft.com/l/meetup-join/19%3acjbiBHmAVLYhAHFwfxAUVU2CTUmej1SDZxO5hLlOBfA1%40thread.tacv2/1628192724770?context=%7b%22Tid%22%3a%22331c86e7-d032-436f-bc53-f2552d031012%22%2c%22Oid%22%3a%224827fba4-0a0b-4446-bbe1-f382a9ddac4e%22%7d",
+                "ExpireDate":"2022-12-31",
+                "Description":"Links for Monday Teams"
+             },
+             {
+                "Link":"https://teams.microsoft.com/l/meetup-join/19%3acjbiBHmAVLYhAHFwfxAUVU2CTUmej1SDZxO5hLlOBfA1%40thread.tacv2/1628191959757?context=%7b%22Tid%22%3a%22331c86e7-d032-436f-bc53-f2552d031012%22%2c%22Oid%22%3a%224827fba4-0a0b-4446-bbe1-f382a9ddac4e%22%7d",
+                "ExpireDate":"2022-12-31",
+                "Description":"Link for Wednesday Teams"
+             },
+             {
+                "Link":"https://t.me/joinchat/ZwzwcnHp1SoxZjU8",
+                "ExpireDate":"2022-10-01",
+                "Description":"Telegram Group Link"
+             }
+          ],
+          "ClassOnceOff":[
+             
+          ],
+          "ClassTimes":[
+             {
+                "StartsOn":"2022-07-25",
+                "EndsOn":"2022-12-28",
+                "Time":"11:00",
+                "RepeatsWeakly":true,
+                "Delivery":"Contact"
+             },
+             {
+                "StartsOn":"2022-07-27",
+                "EndsOn":"2022-12-28",
+                "Time":"09:30",
+                "RepeatsWeakly":true,
+                "Delivery":"Contact"
+             },
+             {
+                "StartsOn":"2022-08-01",
+                "EndsOn":"2023-01-01",
+                "Time":"08:00",
+                "RepeatsWeakly":true,
+                "Delivery":"Contact"
+             }
+          ],
+          "ClassCancelations":[
+             
+          ]
+       }
+    ],
+    "HolidayTimes":[
+       {
+          "StartOn":"2022-03-21",
+          "EndOn":"2022-03-27"
+       },
+       {
+          "StartOn":"2022-07-01",
+          "EndOn":"2022-07-08"
+       },
+       {
+          "StartOn":"2022-10-10",
+          "EndOn":"2022-10-14"
+       },
+       {
+          "StartOn":"2022-11-29",
+          "EndOn":"2022-12-30"
+       }
+    ]
+ }
