@@ -126,13 +126,6 @@
                 "Time":"09:30",
                 "RepeatsWeakly":true,
                 "Delivery":"Contact"
-             },
-             {
-                "StartsOn":"2022-08-01",
-                "EndsOn":"2023-01-01",
-                "Time":"08:00",
-                "RepeatsWeakly":true,
-                "Delivery":"Contact"
              }
           ],
           "ClassCancelations":[

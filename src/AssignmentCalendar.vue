@@ -26,7 +26,6 @@ export default defineComponent({
     {
         let temp:DataObj =new DataObj();
         let extTemp = this;
-        //src\data\Modules.json
         $.getJSON(".\\src\\data\\Modules.json", function(data){
            temp = (data as DataObj);
            extTemp.AllData = temp;
