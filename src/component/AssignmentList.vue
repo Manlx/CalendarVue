@@ -28,7 +28,7 @@ export default defineComponent({
         --SelectAniTime:0.5s;
     }
 *{
-    font-size: 2vw;
+    font-size: 1vw;
     color: var(--PHGold);
     font-family: 'Roboto', sans-serif;
 }
@@ -42,6 +42,12 @@ export default defineComponent({
     border-bottom: 3px solid var(--PHGold);
     animation: forwards var(--SelectAniTime) OnLeave;
     border: 3px solid var(--PHGold);
+}
+.AssHolder> p{
+    font-size: 2vw;
+}
+.AssHolder> a{
+    font-size: 2vw;
 }
 .AssHolder:hover{
     animation: forwards var(--SelectAniTime) OnHover;

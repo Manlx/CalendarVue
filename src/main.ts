@@ -1,9 +1,8 @@
 import { createApp } from 'vue'
 import router from './router'
-import AssignmentCalendar from './AssignmentCalendar.vue'
-import ClassCalendarVue from './ClassCalendar.vue'
+import AppVue from './App.vue'
 
-const app = createApp(ClassCalendarVue)
+const app = createApp(AppVue)
 
 app.use(router)
 
